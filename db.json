@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "hello",
+      "flg": "sms",
+      "name": "jon"
+    },
+    {
+      "id": 2,
+      "email": "hello2",
+      "flg": "push-notification",
+      "name": "jon2"
+    },
+    {
+      "id": 3,
+      "email": "hello3",
+      "flg": "otp",
+      "name": "jon3"
+    },
+    {
+      "id": 4,
+      "email": "hello4",
+      "flg": "email",
+      "name": "jon4"
+    },
+    {
+      "id": 5,
+      "email": "hello5",
+      "flg": "duo",
+      "name": "jon5"
+    },
+    {
+      "id": 6,
+      "email": "hello6",
+      "flg": "webauthn-roaming",
+      "name": "jon6"
+    },
+    {
+      "id": 7,
+      "email": "hello7",
+      "flg": "webauthn-platform",
+      "name": "jon7"
+    },
+    {
+      "id": 8,
+      "email": "hello8",
+      "flg": "recovery-code",
+      "name": "jon8"
+    }
+  ]
+}
